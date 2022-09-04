@@ -1,0 +1,11 @@
+header {
+    background-image: url('image_1.jpg');
+}
+
+h1 {
+    font-family: Helvetics;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
